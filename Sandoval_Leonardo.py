@@ -1,5 +1,5 @@
 #PROGRAM: PRIMERA RED NEURONAL
-#AUTHOR: ZAPATA LIZZETTE
+#AUTHOR: SANDOVAL LEONARDO
 
 import tensorflow as tf
 import numpy as np
